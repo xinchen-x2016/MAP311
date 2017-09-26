@@ -1,1 +1,3 @@
 # MAP311
+MAP PROJET: Modélisation bayésienne des genres
+TRONC COMMUN, ANNEE 1, ECOLE POLYTECHNIQUE
